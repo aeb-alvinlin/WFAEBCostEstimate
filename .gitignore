@@ -1,0 +1,11 @@
+# 排除 .docsWFAEBCostEstimate1c 資料夾下的所有檔案
+.docsWFAEBCostEstimate1c/*
+
+# 排除所有 *.exe 檔案
+*.exe
+
+# 排除所有 *.rar 檔案
+*.rar
+
+# 排除所有 *.7z 檔案
+*.7z
